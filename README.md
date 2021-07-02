@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning Data Engineering Paradigm
 - 📫 How to reach me: vigneshrajeshbabu@gmail.com
 - ⭐ TKMCE Electronics & Comm. 2020 Graduate
-- 🎇 Former UX/UI & Graphic Designer
+- 🎇 Former UX/UI & Graphic Designer (
+- 📫 How to reach me: vigneshrajeshbabu@gmail.com
+- 📈 LinkedIn: www.linkedin.com/in/vigneshrbabu/
 <!--
 **vrbabu9000/vrbabu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
