@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- A novice data generalist with no significant depth in any particular slice. This person prefers range over depth and value over accuracy. Yeah. He can interpret data, build human-centric models and tell a story.
+A novice data generalist with no significant depth in any particular slice. This person prefers range over depth and value over accuracy. Yeah. He can interpret data, build human-centric models and tell a story.
 - 🔭 I’m currently working on Data Science and ML Projects
 - 🌱 I’m currently learning Data Engineering Paradigm
 - ⭐ TKMCE Electronics & Comm. 2020 Graduate
