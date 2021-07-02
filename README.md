@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data Science and ML Projects
 - 🌱 I’m currently learning Data Engineering Paradigm
 - ⭐ TKMCE Electronics & Comm. 2020 Graduate
-- 🎇 Former UX/UI & Graphic Designer (
+- 🎇 Former UX/UI & Graphic Designer 
 - 📫 How to reach me: vigneshrajeshbabu@gmail.com
 - 📈 LinkedIn: www.linkedin.com/in/vigneshrbabu/
 <!--
