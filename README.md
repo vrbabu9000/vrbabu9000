@@ -3,7 +3,6 @@
 - A novice data generalist with no significant depth in any particular slice. This person prefers range over depth and value over accuracy. Yeah. He can interpret data, build human-centric models and tell a story.
 - 🔭 I’m currently working on Data Science and ML Projects
 - 🌱 I’m currently learning Data Engineering Paradigm
-- 📫 How to reach me: vigneshrajeshbabu@gmail.com
 - ⭐ TKMCE Electronics & Comm. 2020 Graduate
 - 🎇 Former UX/UI & Graphic Designer (
 - 📫 How to reach me: vigneshrajeshbabu@gmail.com
