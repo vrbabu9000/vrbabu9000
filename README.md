@@ -7,6 +7,9 @@ A novice data generalist with no significant depth in any particular slice. This
 - 🎨 Former UX/UI & Graphic Designer 
 - 🔔 Email: vigneshrajeshbabu@gmail.com
 - 🔷 LinkedIn: www.linkedin.com/in/vigneshrbabu/
+- 🚀 Recent Deployments: 
+    - https://abusiveemailclassifier.herokuapp.com/
+    - https://scrapynumadic.herokuapp.com/
 <!--
 **vrbabu9000/vrbabu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
