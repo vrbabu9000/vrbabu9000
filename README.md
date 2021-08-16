@@ -9,7 +9,6 @@ A novice data generalist with no significant depth in any particular slice. This
 - 🔷 LinkedIn: www.linkedin.com/in/vigneshrbabu/
 - 🚀 Recent Deployments: 
     - https://share.streamlit.io/vrbabu9000/abusive_content_nlp/app.py
-    - https://scrapynumadic.herokuapp.com/
 <!--
 **vrbabu9000/vrbabu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
