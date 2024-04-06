@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-A novice data generalist with no significant depth in any particular slice. This person prefers range over depth and value over accuracy. Yeah. He can interpret data, build human-centric models and tell a story.
-- 🔭 currently working on Data Science and ML Projects
-- 🌱 currently learning Data Engineering Paradigm
+Where there's a will, there's a way. And in AI, I find the way, quickly and efficiently.
+- 🔭 currently working on Generative AI & Conventional AI/ML Approaches
+- 🌱 currently learning Gen AI Agenting & Stable Diffusion 
 - 🎓 TKMCE Electronics & Comm. 2020 Graduate
 - 🎨 Former UX/UI & Graphic Designer 
 - 🔔 Email: vigneshrajeshbabu@gmail.com
 - 🔷 LinkedIn: www.linkedin.com/in/vigneshrbabu/
-- 🚀 Recent Deployments: 
-    - https://share.streamlit.io/vrbabu9000/abusive_content_nlp/app.py
 <!--
 **vrbabu9000/vrbabu9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
