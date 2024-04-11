@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Where there's a will, there's a way. And in AI, I find the way, quickly and efficiently.
+Where there's a will, there's a way. And with AI, I find the way, quickly and efficiently.
 - 🔭 currently working on Generative AI & Conventional AI/ML Approaches
 - 🌱 currently learning Gen AI Agenting & Stable Diffusion 
 - 🎓 TKMCE Electronics & Comm. 2020 Graduate
