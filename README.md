@@ -2,7 +2,7 @@
 
 Where there's a will, there's a way. And with AI, I find the way, quickly and efficiently.
 - 🔭 currently working on Generative AI & Conventional AI/ML Approaches
-- 🌱 currently learning Gen AI Agenting & Stable Diffusion 
+- 🌱 currently pursuing MSE Data Science @JHU
 - 🎓 TKMCE Electronics & Comm. 2020 Graduate
 - 🎨 Former UX/UI & Graphic Designer 
 - 🔔 Email: vigneshrajeshbabu@gmail.com
